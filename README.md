@@ -1,5 +1,7 @@
 # Censoring-Distribution
 
+Schemper_Smith.R   Simulations to replicate and modify the settings from Schemper & Smith (1996)
+
 gray_neg_dep4.R    Simulations under (L, E) negative dependence; shape and scale = 4
 
 gray_neg_dep5.R    Simulations under (L, E) negative dependence; shape and scale = 5
