@@ -5,7 +5,7 @@ library(survival)
 
 set.seed(1000)
 n<-100
-B<-100
+B<-1000
 
 thru<-1750
 vvec<-c(4,5,6)
